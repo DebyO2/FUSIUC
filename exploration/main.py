@@ -348,6 +348,9 @@ while True:
     quit/exit: to exit the cli
     play: ofcourse to play the Game
     credits: to see the credits
+    settings: to see the settings 
+    change settings: to change the settings
+    list music: to see the music available with there respective path
 
         ''')
 
