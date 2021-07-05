@@ -1,0 +1,1 @@
+a cli based game in python where u have to find stuff and explore a large directories in your system
