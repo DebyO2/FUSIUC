@@ -12,7 +12,7 @@ i have tried my best to make something relevent to the theme
 
 ## Authors
 
-- [@mortalcoder](https://github.com/mortalcoder/)
+- [@DebyO2](https://github.com/DebyO2/)
 
   
 ## What the game is about?
